@@ -1,0 +1,8 @@
+.canvas{
+    background: #ccc;
+    min-height: 300px;
+    min-width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
